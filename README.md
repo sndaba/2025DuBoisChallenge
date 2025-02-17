@@ -1,5 +1,6 @@
-# 2025DuBoisChallenge
+# [2025DuBoisChallenge](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025)
 
-# [challenge2](https://github.com/sndaba/2025DuBoisChallenge/tree/main/challenge2) - [challenge repo](https://github.com/ajstarks/dubois-data-portraits/tree/master/challenge/2025/challenge02)
-![challengeOG_ReCreate](https://github.com/user-attachments/assets/321b7953-c1ff-40f0-ad03-2ee2540cc266)
+# [challenge2](https://github.com/sndaba/2025DuBoisChallenge/tree/main/challenge2) - Acres of Land Owned by Negroes in Georgia (plate 19), February 10
+![challengeOG_ReCreate](https://github.com/user-attachments/assets/508f7ef5-a8be-463f-9b67-b65addd3e7b5)
+
 
